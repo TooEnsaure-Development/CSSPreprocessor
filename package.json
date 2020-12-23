@@ -1,0 +1,27 @@
+{
+  "name": "csspreprocessor",
+  "version": "1.0.0",
+  "description": "CSS preprocessor template faster development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TooEnsaure-Development/CSSPreprocessor.git"
+  },
+  "keywords": [
+    "Sass",
+    "CSS",
+    "Preprocessor"
+  ],
+  "author": "Shawn Bellazan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TooEnsaure-Development/CSSPreprocessor/issues"
+  },
+  "homepage": "https://github.com/TooEnsaure-Development/CSSPreprocessor#readme",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
