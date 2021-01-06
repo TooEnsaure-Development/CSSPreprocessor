@@ -1,0 +1,19 @@
+.conic-nav {
+  font-size: 27px;
+
+  .active {
+    border-bottom: 2px solid orange;
+  }
+
+  div {
+    background-color: #150f3ee3;
+  }
+}
+
+.box {
+  height: 100%;
+  margin-right: 10px;
+  &:last-child {
+    margin-right: 0;
+  }
+}
